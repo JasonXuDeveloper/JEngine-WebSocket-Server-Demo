@@ -72,5 +72,5 @@
 
 5. Go to JEngine project, and **in** ```hot update scripts solution```
 
-6. Call ```JWebSocketDemo.RunSocketIOServerDemo(string ip, int port)```, where ```ip``` is ```127.0.0.1```, and ```port``` is ```7799```
+6. Call ```JWebSocketDemo.RunSocketIOServerDemo(string ip, int port)```, where ```ip``` is ```127.0.0.1```, and ```port``` is ```8001```
 
