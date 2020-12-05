@@ -36,7 +36,7 @@
 
 4. 进入使用JEngine的项目的 ```热更工程```
 
-5. 调用 ```JWebSocketDemo.RunSocketIOServerDemo(string ip, int port)```，且 ```ip``` 为 ```127.0.0.1```， ```port``` 为 ```7799```
+5. 调用 ```JWebSocketDemo.RunSocketIOServerDemo(string ip, int port)```，且 ```ip``` 为 ```127.0.0.1```， ```port``` 为 ```8001```
 
 
 
